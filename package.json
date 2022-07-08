@@ -1,8 +1,8 @@
 {
   "name": "utils-4-days",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Test utilities package",
-  "main": "index.js",
+  "main": "index.cjs",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
